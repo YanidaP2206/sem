@@ -1,2 +1,2 @@
 Read me
-Testing 25th of September 2
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
