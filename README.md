@@ -1,2 +1,1 @@
-[![LICENSE](https://img.shields.io/github/license/<github-username>/devops.svg?style=flat-square)](https://github.com/YanidaP2206/devops/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/<github-username>/devops/all.svg?style=flat-square)](https://github.com/YanidaP2206/devops/releases)
+![workflow](https://github.com/<UserName>/<RepositoryName>/actions/workflows/main.yml/badge.svg)
